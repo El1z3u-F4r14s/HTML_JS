@@ -21,7 +21,6 @@ form.addEventListener('submit', function(e) {
         nomeBeneficiario.value = '';
         numeroContaBeneficiario.value = '';
         valorDeposito.value = '';
-
     } else {
         alert("O nome não está completo!");
     }
